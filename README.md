@@ -8,3 +8,6 @@
 
 ### Web Blog
  - [web.dev](https://web.dev/blog/)
+
+### Javascript
+ - [ES2021](https://h3manth.com/ES2021/)
