@@ -11,3 +11,6 @@
 
 ### Javascript
  - [ES2021](https://h3manth.com/ES2021/)
+
+### Event
+ - [DOM Event Basic](https://egghead.io/courses/your-ultimate-guide-to-understanding-dom-events-6c0c0d23)
