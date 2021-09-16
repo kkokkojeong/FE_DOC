@@ -19,6 +19,9 @@
 ### Test
  - [전체적인 테스트 설명](https://ui.toast.com/fe-guide/ko_TEST)
 
-
 ### Map
  - [Mapbox Blog](https://blog.mapbox.com/)
+
+### WebAssembly
+ - [WebAssembly](https://webassembly.org/)
+ - [FE개발자의 성장 스토리 08 : WebAssembly 개발기](https://tech.kakao.com/2021/05/17/frontend-growth-08/)
