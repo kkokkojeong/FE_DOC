@@ -25,3 +25,7 @@
 ### WebAssembly
  - [WebAssembly](https://webassembly.org/)
  - [FE개발자의 성장 스토리 08 : WebAssembly 개발기](https://tech.kakao.com/2021/05/17/frontend-growth-08/)
+
+
+### React
+ - [Understand Keys, Virtual DOM, Reconciliation, and Diffing in React](https://betterprogramming.pub/understand-keys-virtual-dom-reconciliation-and-diffing-in-react-e65a9bee316f)
