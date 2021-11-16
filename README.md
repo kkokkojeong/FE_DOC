@@ -13,6 +13,9 @@
  - [ES2021](https://h3manth.com/ES2021/)
  - [How JavaScript works: inside the V8 engine](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e)
 
+### Algorithm 
+ - [Javascript Algorithm](https://github.com/trekhleb/javascript-algorithms/blob/master/README.ko-KR.md)
+
 ### Event
  - [DOM Event Basic](https://egghead.io/courses/your-ultimate-guide-to-understanding-dom-events-6c0c0d23)
 
