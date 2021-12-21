@@ -39,3 +39,4 @@
 
 ### Graphics
  - [Theory](https://github.com/danistefanovic/build-your-own-x#build-your-own-3d-renderer)
+ - [WebGPU](https://eytanmanor.medium.com/the-story-of-webgpu-the-successor-to-webgl-bf5f74bc036a)
