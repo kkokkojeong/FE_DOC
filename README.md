@@ -28,6 +28,7 @@
 ### WebAssembly
  - [WebAssembly](https://webassembly.org/)
  - [FE개발자의 성장 스토리 08 : WebAssembly 개발기](https://tech.kakao.com/2021/05/17/frontend-growth-08/)
+ - [What’s Wrong with Web Assembly?](https://blog.bitsrc.io/whats-wrong-with-web-assembly-3b9abb671ec2)
 
 
 ### React
